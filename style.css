@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to left, rgba(236, 112, 99, 0.9), rgba(52, 152, 219, 0.9));
+
+}
+
+/* h1 {
+    font-size: 50px;
+    padding: 10px;
+}
+h3 {
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+    text-transform: uppercase;
+}
+h4 {
+    font-size: 30px;
+    padding: 10px;
+} */
